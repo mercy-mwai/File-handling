@@ -4,7 +4,6 @@ def modify_file_content(content):
 
 def read_and_write_file():
     try:
-        # Ask the user for the filename
         filename = input("Enter the filename to read from: ")
 
         # Open the file in read mode
